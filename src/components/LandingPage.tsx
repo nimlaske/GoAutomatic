@@ -267,7 +267,7 @@ function LandingPage() {
                 <h3 className="font-serif text-4xl text-gold mb-4">1</h3>
                 <h4 className="font-serif text-2xl text-charcoal mb-3">Book Appointment</h4>
                 <p className="text-gray-600 leading-relaxed">
-                  Quick consultation to understand your needs
+                  Quick consultations booked to understand your needs
                 </p>
               </div>
 
@@ -278,7 +278,7 @@ function LandingPage() {
                 <h3 className="font-serif text-4xl text-gold mb-4">2</h3>
                 <h4 className="font-serif text-2xl text-charcoal mb-3">We build your system</h4>
                 <p className="text-gray-600 leading-relaxed">
-                  Custom designed for your business in 7-10 days
+                  Custom designed for your business
                 </p>
               </div>
 
