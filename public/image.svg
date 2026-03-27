@@ -1,0 +1,21 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .logo-text { font-family: 'Brush Script MT', cursive; font-size: 48px; font-weight: 300; fill: #D4AF37; }
+      .logo-agency { font-family: 'Georgia', serif; font-size: 18px; letter-spacing: 4px; fill: #D4AF37; font-weight: normal; }
+      .logo-circle { stroke: #D4AF37; stroke-width: 3; fill: none; }
+    </style>
+  </defs>
+
+  <!-- White background -->
+  <rect width="200" height="200" fill="#FFFFFF"/>
+
+  <!-- Gold circle -->
+  <circle cx="100" cy="100" r="85" class="logo-circle"/>
+
+  <!-- NaiM text -->
+  <text x="100" y="105" class="logo-text" text-anchor="middle">NaiM</text>
+
+  <!-- AGENCY text -->
+  <text x="100" y="135" class="logo-agency" text-anchor="middle">AGENCY</text>
+</svg>
