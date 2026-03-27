@@ -57,7 +57,7 @@ function LandingPage() {
   const faqs = [
     {
       question: 'How much does this cost?',
-      answer: 'After the free 15-minute call, I give you a clear monthly price based on your business size and what needs automating. Plans start from $397 per month. No setup fee. No long contract. Cancel anytime.'
+      answer: 'After the free 15-minute call, I give you a clear monthly price based on your business size and what needs automating. Plans start from $99.9 per month. No setup fee. No long contract. Cancel anytime.'
     },
     {
       question: 'How long does setup take?',
@@ -124,24 +124,30 @@ function LandingPage() {
         <section className="py-20 md:py-28 px-4 sm:px-6 lg:px-8">
           <div className="max-w-4xl mx-auto text-center">
             <h1 className="font-serif text-5xl md:text-6xl text-charcoal mb-8 leading-tight">
-              From <span className="text-gold">Manual</span> <span className="text-charcoal">→ </span>
+              From <span className="text-gold">Manual Work</span> <span className="text-charcoal">→ </span>
               <span className="text-gold">Automatic</span>
             </h1>
 
             <div className="grid md:grid-cols-2 gap-8 mb-12">
               <div className="bg-white rounded-2xl p-8 border border-gray-100 shadow-sm fade-in">
-                <img
-                  src="/20260327_0103_Image_Generation_remix_01kmp2r4sffextkztf38j7qden.png"
-                  alt="Before - Manual customer work"
-                  className="h-48 w-full object-cover rounded-xl mb-6"
-                />
+                <div className="aspect-[4/3] w-full rounded-xl mb-6 overflow-hidden">
+                  <img
+                    src="/20260327_0103_Image_Generation_remix_01kmp2r4sffextkztf38j7qden.png"
+                    alt="Before - Manual customer work"
+                    className="w-full h-full object-contain"
+                  />
+                </div>
                 <h3 className="font-serif text-2xl text-charcoal mb-2">Before</h3>
                 <p className="text-gold">Manual customer work</p>
               </div>
 
               <div className="bg-white rounded-2xl p-8 border-2 border-gold shadow-sm fade-in">
-                <div className="h-48 bg-gray-100 rounded-xl mb-6 flex items-center justify-center">
-                  <span className="text-gray-400">After Image</span>
+                <div className="aspect-[4/3] w-full rounded-xl mb-6 overflow-hidden">
+                  <img
+                    src="/20260327_0112_Image_Generation_simple_compose_01kmp38x7pfb193z8nb1gxn98d.png"
+                    alt="After - Automatic replies + content + lead follow-up"
+                    className="w-full h-full object-contain"
+                  />
                 </div>
                 <h3 className="font-serif text-2xl text-charcoal mb-2">After</h3>
                 <p className="text-gold">Automatic replies + content + lead follow-up</p>
@@ -424,7 +430,7 @@ function LandingPage() {
 
       <footer className="bg-white border-t border-gray-200">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-20">
-          <div className="flex flex-col md:flex-row items-center justify-between gap-12 md:gap-16">
+          <div className="flex flex-col md:flex-row items-center justify-center gap-24">
             <div className="flex-shrink-0">
               <img
                 src="/image.png"
@@ -433,7 +439,7 @@ function LandingPage() {
               />
             </div>
 
-            <div className="flex flex-col gap-4 text-center md:text-left">
+            <div className="flex flex-col gap-4 text-left">
               <p className="text-charcoal text-lg">
                 <span className="font-medium text-gold">WhatsApp:</span> <span className="text-gold">+254751772123</span>
               </p>
@@ -444,7 +450,7 @@ function LandingPage() {
           </div>
 
           <div className="mt-16 pt-8 border-t border-gray-200 text-center">
-            <p className="text-gray-500 text-sm">© 2026 Naim Agency. All rights reserved. GlobalWide.</p>
+            <p className="text-gray-500 text-sm">© 2024 Naim Agency. All rights reserved. Globally World Wide</p>
           </div>
         </div>
       </footer>
