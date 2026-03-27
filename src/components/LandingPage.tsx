@@ -125,7 +125,7 @@ function LandingPage() {
           <div className="max-w-4xl mx-auto text-center">
             <h1 className="font-serif text-5xl md:text-6xl text-charcoal mb-8 leading-tight">
               From <span className="text-gold">Manual Work</span> <span className="text-charcoal">→ </span>
-              <span className="text-gold">Automatic</span>
+              <span className="text-gold">Automatic Growth</span>
             </h1>
 
             <div className="grid md:grid-cols-2 gap-8 mb-12">
