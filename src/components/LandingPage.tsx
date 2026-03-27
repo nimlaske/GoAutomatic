@@ -210,7 +210,7 @@ function LandingPage() {
                   <div>
                     <h3 className="font-serif text-2xl text-charcoal mb-2">AI Customer Reply System</h3>
                     <p className="text-gray-600 leading-relaxed">
-                      Your business gets an AI trained on your products and FAQs. It replies to every WhatsApp, Instagram DM, and email instantly, 24/7.
+                      Your business gets an AI trained on your products and FAQs. It replies to every WhatsApp, Telegram, Instagram, TikTok, Twitter (X), Facebook, Snapchat, Youtube and email.
                     </p>
                   </div>
                 </div>
@@ -220,7 +220,7 @@ function LandingPage() {
                   <div>
                     <h3 className="font-serif text-2xl text-charcoal mb-2">Daily Content Automation</h3>
                     <p className="text-gray-600 leading-relaxed">
-                      Content written, designed, and posted to Instagram, TikTok, Twitter (X), Facebook, Snapchat and Youtube every single day. 30+ pieces per month. You do nothing.
+                      Content written, designed, and posted to WhatsApp, Telegram, Instagram, TikTok, Twitter (X), Facebook, Snapchat, Youtube and email every single day. 30+ pieces per month. You do nothing.
                     </p>
                   </div>
                 </div>
