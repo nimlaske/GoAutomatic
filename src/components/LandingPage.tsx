@@ -57,23 +57,23 @@ function LandingPage() {
   const faqs = [
     {
       question: 'How much does this cost?',
-      answer: 'After the free 15-minute call, I give you a clear monthly price based on your business size and what needs automating. Plans start from $99.9 per month. No setup fee. No long contract. Cancel anytime.'
+      answer: 'Pricing is project-based for the initial setup, with a monthly subscription for maintenance, updates, and support. We\'ll provide an exact quote based on the size and complexity of your project.'
     },
     {
       question: 'How long does setup take?',
-      answer: 'Most businesses are fully live within 7 to 10 days. We handle every technical part. You touch nothing.'
+      answer: 'Setup timelines depend on the number and complexity of forms required. Most projects are delivered within a reasonable implementation window, and we confirm a realistic timeline after reviewing your exact needs.'
     },
     {
       question: 'Do I need a Computer or Special Software?',
-      answer: 'No. If you can send a WhatsApp message, you can use GoAutomatic. Everything works on your phone and runs in the cloud.'
+      answer: 'No. Everything works on your smartphone. You just need a modern phone with internet access.'
     },
     {
       question: 'What if my staff don\'t know how to use it?',
-      answer: 'We train your team in under 30 minutes. After that, the system runs itself and your staff check a simple daily summary.'
+      answer: 'We provide a short training session that covers everything. Our systems are designed to be simple and intuitive and your staff get to check a simple daily summary.'
     },
     {
       question: 'Is my client data safe?',
-      answer: 'Yes. Encrypted tools, access control, Kenya Data Protection Act and GDPR compliant. If your business handles sensitive information, we set it up with an extra layer of security.'
+      answer: 'Yes. Encrypted tools, access control, Kenya Data Protection Act and GDPR compliant. Your data is encrypted, access-controlled, and stored safely.'
     }
   ];
 
