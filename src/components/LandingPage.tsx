@@ -441,10 +441,24 @@ function LandingPage() {
 
             <div className="flex flex-col gap-4 text-left">
               <p className="text-charcoal text-lg">
-                <span className="font-medium text-gold">WhatsApp:</span> <span className="text-gold">+254751772123</span>
+                <span className="font-medium text-gold">WhatsApp:</span>{' '}
+                <a
+                  href={WHATSAPP_LINK}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-gold hover:underline transition-all"
+                >
+                  +254751772123
+                </a>
               </p>
               <p className="text-charcoal text-lg">
-                <span className="font-medium text-gold">Email:</span> <span className="text-gold">salminabdalla93@gmail.com</span>
+                <span className="font-medium text-gold">Email:</span>{' '}
+                <a
+                  href="mailto:salminabdalla93@gmail.com"
+                  className="text-gold hover:underline transition-all"
+                >
+                  salminabdalla93@gmail.com
+                </a>
               </p>
             </div>
           </div>
