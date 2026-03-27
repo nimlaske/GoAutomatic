@@ -240,7 +240,7 @@ function LandingPage() {
                   <div>
                     <h3 className="font-serif text-2xl text-charcoal mb-2">Short Training so you can run it yourself</h3>
                     <p className="text-gray-600 leading-relaxed">
-                      We train your team in under 30 minutes. After that, everything runs itself and your team checks a daily summary.
+                      We provide a short training session that covers everything. After that, everything runs itself and your team checks a daily summary.
                     </p>
                   </div>
                 </div>
