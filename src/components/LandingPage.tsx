@@ -331,7 +331,7 @@ function LandingPage() {
             </h2>
 
             <p className="text-lg text-charcoal mb-12">
-              Submit your details and Busines/Tasks below, then choose a booking time to start your Automatic Growth.
+              Submit your Details and Businesses/Tasks below, then choose a booking time to start your Automatic Growth.
             </p>
 
             <div className="bg-white rounded-3xl border-2 border-gold p-8 md:p-12 shadow-sm">
